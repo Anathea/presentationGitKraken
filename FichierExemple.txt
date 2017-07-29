@@ -1,0 +1,1 @@
+Ceci est un fichier texte qui me sert d'exemple pour présenter GitKraken.
